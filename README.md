@@ -1,4 +1,4 @@
-# Bare Metal GPIO LED Controller for ESP32
+# Bare Metal GPIO LED Blinker for ESP32
 
 ![Project](Project.jpg)
 
