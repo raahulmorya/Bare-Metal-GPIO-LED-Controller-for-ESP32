@@ -1,4 +1,7 @@
 # Bare Metal GPIO LED Controller for ESP32
+![Project](Project.jpg)
+![Project](Memory_layout_Screenshot.png)
+![Project](Monitor_mode_Screenshot.png)
 ## Project folder contents
 
 The project contains one source file in C language [main.c](main/main.c). The file is located in folder [main](main).
