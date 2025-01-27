@@ -1,6 +1,9 @@
 # Bare Metal GPIO LED Controller for ESP32
+
 ![Project](Project.jpg)
+
 ![Project](Memory_layout_Screenshot.png)
+
 ![Project](Monitor_mode_Screenshot.png)
 ## Project folder contents
 
